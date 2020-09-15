@@ -1,1 +1,0 @@
-<?php header( 'Location: /story1.html' ) ;  ?>
